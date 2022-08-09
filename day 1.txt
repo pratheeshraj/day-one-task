@@ -1,0 +1,29 @@
+ 1 Diffrent between http1 and http2?
+   
+  HTTP1:-
+    1.Load resources one after the other.so if one resource cannot be reloaded.
+    2.It block all the other resource behind it.       
+    3.Frustrated user.
+    4.High bounce rate.
+    5.image sprites.
+   
+
+
+  HTTP2:-
+    1.it is able to use a single TCP connection to send multiple screams of data at once.
+    2.that no one resource blocks any other resources.
+    3.compress HTTF headers
+    4.Allow server push.
+    5.Enables multiplexing.
+
+ 2 Write a blog about objects and its internal representation in Javascript ?
+   
+    1. A javascrit object is an entity having properties and method.
+    2. Javascrit is an object based language.
+    3. it is template based not class based .
+
+
+
+
+
+
